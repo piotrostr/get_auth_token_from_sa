@@ -1,6 +1,5 @@
 {
-    "require": {
-        "google/apiclient": "^2.15.0",
-        "google/cloud-retail": "^1.4"
-    }
+  "require": {
+    "google/apiclient": "^2.15.0"
+  }
 }
